@@ -55,6 +55,8 @@ body {
   color: white;
   position: relative;
   top: 80%;
-  display: block;
+  left: 50%;
+  display: block !important;
+  transform: translateX(-50%) translateY(-50%);
 }
 </style>
