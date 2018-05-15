@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <a href="https://facebook.com/events/154757402034359/" class="fa fa-facebook" target="_blank"></a>
   </div>
 </template>
@@ -53,7 +52,7 @@ body {
 .fa-facebook {
   background: #3b5998;
   color: white;
-  position: relative;
+  position: absolute;
   top: 80%;
   left: 50%;
   display: block !important;
