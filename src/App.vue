@@ -30,10 +30,10 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  background: url(./assets/trance.png) no-repeat center center #000;
+  background: url(./assets/trance.png) no-repeat center center;
   width: 100%;
   height: 100%;
-  background-size: contain;
+  background-size: cover;
 }
 
 .fa {
